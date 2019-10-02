@@ -1,0 +1,10 @@
+{
+    "Name": "ADM - Workflow Scenario 1 : Create new deal with add additional information like details, people, financial, products and activities - Critical",
+    "Owner": {
+        "_refObjectUUID": "706c3aa9-95da-4333-a1f8-5c57282bb9d2",
+        "_refObjectName": "Himanshu Agarwal"
+    },
+    "Priority": "Critical",
+    "Risk": "None",
+    "Type": "Acceptance"
+}
