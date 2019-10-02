@@ -1,6 +1,6 @@
 ### qre-testcases
 
-Intended to be an example for how to manager and organize tests.
+Intended to be an example for how to manage and organize tests.
 
 ## To-Do:
 1. Structure Test Folder, Test Cases, and Steps
