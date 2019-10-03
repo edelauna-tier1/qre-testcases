@@ -1,0 +1,1 @@
+1. Click on Bookmarked icon on the black tool bar

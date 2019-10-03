@@ -1,0 +1,10 @@
+{
+    "Name": "ADM - Workflow Scenario 2: Load ADM, Viewing deals and it's additional information, searching and filtering the deals and others - Critical 1",
+    "Owner": {
+        "_refObjectUUID": "706c3aa9-95da-4333-a1f8-5c57282bb9d2",
+        "_refObjectName": "Himanshu Agarwal"
+    },
+    "Priority": "Critical",
+    "Risk": "None",
+    "Type": "Acceptance"
+}

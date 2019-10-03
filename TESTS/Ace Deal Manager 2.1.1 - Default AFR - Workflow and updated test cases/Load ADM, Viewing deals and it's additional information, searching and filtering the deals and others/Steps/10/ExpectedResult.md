@@ -1,0 +1,1 @@
+1. The list pane is filtered out and shows only bookmarked deals

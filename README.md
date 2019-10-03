@@ -9,4 +9,5 @@ Intended to be an example for how to manage and organize tests.
     - release (needs to be re-worded eg. for approval)
     - hotfixes (re-worded to reflex emergency tests added to current release after approval)
 3. Tagging Strategy (assuming group by release date)
+4. Markdown <-> HTML converter for easier to read test cases
 

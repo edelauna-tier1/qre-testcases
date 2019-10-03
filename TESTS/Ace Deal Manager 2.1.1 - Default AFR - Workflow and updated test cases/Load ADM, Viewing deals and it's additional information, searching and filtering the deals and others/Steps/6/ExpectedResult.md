@@ -1,0 +1,1 @@
+1. The expanded state of the grid should be remembered.
