@@ -1,0 +1,1 @@
+1\. Verify that each section is loaded successfully and data should be populated under each section is maintained as it was entered while creating the list.

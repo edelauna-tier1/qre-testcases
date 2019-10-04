@@ -1,0 +1,1 @@
+The deal should be saved with correct details

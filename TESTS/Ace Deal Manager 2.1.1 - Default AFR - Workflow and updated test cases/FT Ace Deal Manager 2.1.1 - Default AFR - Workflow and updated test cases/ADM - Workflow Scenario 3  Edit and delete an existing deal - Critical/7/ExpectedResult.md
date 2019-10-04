@@ -1,0 +1,1 @@
+1. Contact should be added to the deal
