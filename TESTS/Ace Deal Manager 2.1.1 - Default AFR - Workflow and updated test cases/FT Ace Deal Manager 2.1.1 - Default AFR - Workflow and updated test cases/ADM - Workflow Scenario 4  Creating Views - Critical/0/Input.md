@@ -1,0 +1,1 @@
+Click on the view dropdown beside the top search bar
