@@ -1,3 +1,3 @@
-1\. Select the same deal and navigate to people section
+1\. Select the same deal and navigate to participants section
 
 2\. Search and select a contact
