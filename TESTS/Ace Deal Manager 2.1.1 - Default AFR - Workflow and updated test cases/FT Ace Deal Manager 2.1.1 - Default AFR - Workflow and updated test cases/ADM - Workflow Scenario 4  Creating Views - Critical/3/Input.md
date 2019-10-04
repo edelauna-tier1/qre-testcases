@@ -6,7 +6,7 @@
 
 4\. Click on OK
 
-5\. Repeat step 5. 1 - 5.3 and click on cancel
+5\. Repeat step 4. 1 - 4.3 and click on cancel
 
 6\. Add another row.
 
